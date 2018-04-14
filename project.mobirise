@@ -12,7 +12,7 @@
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 77,
+    "uniqCompNum": 88,
     "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -39,10 +39,8 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1.4em",
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
+              "font-size": "1.2em",
+              "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
               "background": "#333333"
@@ -64,15 +62,11 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#333333",
-            "fontSize": "1.4",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
-            },
+            "fontSize": "1.2",
+            "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALTRI APPARTAMENTI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"true\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"true\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -104,13 +98,13 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/portone-860x404.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "Casa Capra Ravenna",
+                "title": "<br>Casa Capra Ravenna<br>",
                 "contentAlign": "left",
-                "text": "<i><b>Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna.<br></b></i><i><b><br></b></i><br><i><b>Casa Capra ti offre appartamenti prestigiosi di varie metrature<br>in affitto uso ufficio o abitazione.</b></i><br><br><br><br><br><br><i><b><br></b></i>",
+                "text": "<i><b>Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna.<br></b></i><i><b>Casa Capra ti offre appartamenti </b></i><br><i><b>prestigiosi di varie metrature<br>in affitto uso ufficio o abitazione.</b></i><br><br><i><b><br></b></i>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true
               },
@@ -120,9 +114,9 @@
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "<br>Casa Capra Ravenna",
+                "title": "<br><br>Casa Capra Ravenna",
                 "contentAlign": "left",
-                "text": "<b><i>Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna</i></b><br><br><b><i>Casa Capra ti offre appartamenti prestigiosi </i></b><br><b><i>di varie metrature in affitto uso ufficio o abitazione.</i></b><br><br><br><br><br><br><br><br><br><b><i><br></i></b>",
+                "text": "<b><i>Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna</i></b><br><b><i>Casa Capra ti offre appartamenti </i></b><br><b><i>prestigiosi </i></b><b><i>di varie metrature</i></b><br><b><i> in affitto uso ufficio o abitazione.</i></b><br><br><br><br><br><br><br><br><br><b><i><br></i></b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": false
               },
@@ -132,21 +126,21 @@
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "Casa Capra Ravenna",
+                "title": "<br>Casa Capra Ravenna",
                 "contentAlign": "left",
-                "text": "<b><i>Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna.<br><br>Casa Capra ti offre appartamenti prestigiosi di varie metrature<br>in affitto uso ufficio o abitazione.</i></b><br><br><b><i><br></i></b>",
+                "text": "<b><i>Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna.<br>Casa Capra ti offre appartamenti </i></b><br><b><i>prestigiosi di varie metrature<br>in affitto uso ufficio o abitazione.</i></b><br><br><b><i><br></i></b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/abitazione-124981-900x662.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/casa-200765-1-2000x1331.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "Casa Capra Ravenna",
+                "title": "<br><br>Casa Capra Ravenna",
                 "contentAlign": "center",
-                "text": "<i><b>&nbsp;Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna.</b></i><br><i><b><br></b></i><i><b>Casa Capra ti offre appartamenti prestigiosi di varie metrature<br>in affitto uso ufficio o abitazione.</b></i><br><br><br><br><br><br><i><b><br></b></i>",
+                "text": "<i><b>&nbsp;Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna.<br></b></i><i><b>Casa Capra ti offre appartamenti</b></i><br><i><b> prestigiosi di varie metrature<br>in affitto uso ufficio o abitazione.</b></i><br><br><br><br><br><br><i><b><br></b></i>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": false
               },
@@ -156,9 +150,9 @@
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "Casa Capra Ravenna",
+                "title": "<br>Casa Capra Ravenna",
                 "contentAlign": "left",
-                "text": "<b><i>Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna.<br><br>Casa Capra ti offre appartamenti prestigiosi di varie metrature<br>in affitto uso ufficio o abitazione.</i></b><br><br><b><i><br></i></b>",
+                "text": "<b><i>Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna.<br>Casa Capra ti offre appartamenti </i></b><br><b><i>prestigiosi di varie metrature<br>in affitto uso ufficio o abitazione.</i></b><br><br><b><i><br></i></b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": false
               }
@@ -187,8 +181,7 @@
             "B": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "15px",
-              "color": "#ffffff"
+              "font-size": "15px"
             },
             "I": {
               "color": "#ffffff",
@@ -225,8 +218,8 @@
               "size": 0
             }
           },
-          "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna<br>",
-          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO:&nbsp;0541629151<br>CELL :3482944043",
+          "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna (IT)<br>",
+          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO: +39 0541 629151<br>CELL :+39 348 &nbsp;2944043",
           "text3": "<p class=\"mbr-contacts__text\"><strong>COPYRIGHT ©</strong></p><ul class=\"mbr-contacts__list\"><li>Raffaella Pedrazzi</li><li>C.F. PDRRFL70P53H294N</li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -245,7 +238,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "La Storia",
-        "order": 9
+        "order": 11
       },
       "components": [
         {
@@ -420,15 +413,11 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#333333",
-            "fontSize": "1.4",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
-            },
+            "fontSize": "1.2",
+            "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALTRI APPARTAMENTI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"true\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"true\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -476,8 +465,8 @@
               "size": 0
             }
           },
-          "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna<br>",
-          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO:&nbsp;0541629151<br>CELL :3482944043",
+          "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna (IT)<br>",
+          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO: +39 0541 629151<br>CELL :+39 348 &nbsp;2944043",
           "text3": "<p class=\"mbr-contacts__text\"><strong>COPYRIGHT ©</strong></p><ul class=\"mbr-contacts__list\"><li>Raffaella Pedrazzi</li><li>C.F. PDRRFL70P53H294N</li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -496,7 +485,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Album",
-        "order": 8
+        "order": 10
       },
       "components": [
         {
@@ -639,15 +628,11 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#333333",
-            "fontSize": "1.4",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
-            },
+            "fontSize": "1.2",
+            "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALTRI APPARTAMENTI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"true\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"true\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -696,8 +681,8 @@
               "size": 0
             }
           },
-          "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna<br>",
-          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO:&nbsp;0541629151<br>CELL :3482944043",
+          "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna (IT)<br>",
+          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO: +39 0541 629151<br>CELL :+39 348 &nbsp;2944043",
           "text3": "<p class=\"mbr-contacts__text\"><strong>COPYRIGHT ©</strong></p><ul class=\"mbr-contacts__list\"><li>Raffaella Pedrazzi</li><li>C.F. PDRRFL70P53H294N</li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -716,7 +701,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Contatti",
-        "order": 7
+        "order": 9
       },
       "components": [
         {
@@ -726,7 +711,7 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1.4em",
+              "font-size": "1.2em",
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
@@ -749,15 +734,11 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#333333",
-            "fontSize": "1.4",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
-            },
+            "fontSize": "1.2",
+            "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALTRI APPARTAMENTI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"true\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"true\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -779,36 +760,24 @@
         },
         {
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "Via Zirardini 14 Ravenna",
-              "placeId": "ChIJNyXLOlT5fUcRX03nLG_MIYU",
-              "state": "ok",
-              "stateDetails": ""
-            }
+            "showMeta": true
           },
-          "text1": "<strong>CONTATTI</strong><br>Email:<br>raffaellapedrazzi@gmail.com<br>Telefono 0541629151<br>Cell:&nbsp;3482944043<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><b>CASA CAPRA</b></p><p class=\"mbr-contacts__text\">Via Zirardini 14 angolo via IX Febbraio Ravenna</p><p class=\"mbr-contacts__text\">Centro storico attiguo piazzale J.F. Kennedy&nbsp;</p>",
+          "title": "",
+          "meta": "Indirizzo &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Contatti<br>Via Zirardini 14 angolo via IX Febbrraio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;raffaellapedrazzi@gmail.com<br>Centro storico di Ravenna (IT) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Telefono: +39 0541 629151<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Cell: +39&nbsp;348 2944043",
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-k",
+          "_name": "header3",
+          "_anchor": "header3-2c",
           "_styles": {
-            "P": {
-              "font-size": "17px"
+            "B": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "23px"
             },
-            "STRONG": {
-              "font-size": "16px"
+            "P": {
+              "font-size": "20px",
+              "text-align": "left"
             }
           }
         },
@@ -836,6 +805,21 @@
               "text-align": "center"
             }
           }
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "Via Zirardini 14 Ravenna\n",
+              "placeId": "ChIJNyXLOlT5fUcRX03nLG_MIYU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-2b"
         }
       ]
     },
@@ -843,7 +827,7 @@
       "settings": {
         "meta_descr": "Appartamento Casa Capra Piano Nobile",
         "title": "Via Zirardini 14 Interno 3",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -853,7 +837,7 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1.4em",
+              "font-size": "1.2em",
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
@@ -876,15 +860,11 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#333333",
-            "fontSize": "1.4",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
-            },
+            "fontSize": "1.2",
+            "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALTRI APPARTAMENTI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"true\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"true\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -911,7 +891,7 @@
             "showMeta": true,
             "showText": false,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "30",
             "paddingTop": "0",
             "paddingBottom": "1",
@@ -973,156 +953,61 @@
               "text-align": "left"
             },
             ".mbr-header__subtext SPAN": {
-              "font-size": "15px"
+              "font-size": "17px"
             }
           },
           "headerAlign": "left",
-          "meta": "<span style=\"font-style: normal;\">L'appartamento del piano nobile è sito nel primo piano del palazzo e ha ingresso su via Zirardini 14<br><br>L’appartamento ha una superficie di circa 200 mq, è formato da tre saloni, una stanza predisposta per un’eventuale cucina, un corridoio, due bagni e un antibagno.<br>Possiede, inoltre, un sottotetto di 400 mq che risulta essere perfetto per un eventuale archivio.<br><br>Vi si accede attraverso un androne con soffitto a volta lunettata e uno scalone gentilizio, illuminati da lampioni.<br></span><br>",
+          "meta": "<span style=\"font-style: normal;\">L'appartamento del piano nobile è sito nel primo piano del palazzo e ha ingresso su via Zirardini 14.L’appartamento ha una superficie di circa 200 mq, è formato da tre saloni, una stanza predisposta per un’eventuale cucina, un corridoio, due bagni e un antibagno.<br>Possiede, inoltre, un sottotetto di 400 mq che risulta essere perfetto per un eventuale archivio.Vi si accede attraverso un androne con soffitto a volta lunettata e uno scalone gentilizio, illuminati da lampioni.<br></span><br><span style=\"font-style: normal;\"><b>L’immobile risulta un perfetto luogo per ospitare uffici di rappresentanza o un’abitazione di prestigio.</b><br></span><br>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">altre Informazioni</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-u"
         },
         {
-          "_inherit": "msg-box5",
           "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "30",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#7c706b",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "noGutter": false,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/10-c.-capra-serie-di-sale-p.-nobile-4-460x597.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-c.-capra-serie-di-sale-p.-nobile-4-460x597-459x595.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/13-c.-capra-salone-n.3-p1-copia-2-782x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13-c.-capra-salone-n.3-p1-copia-2-782x600-780x598.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/abitazione-124905-399x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/abitazione-124905-399x600-399x599.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/casa-200364-1w55oa35-800x532.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/casa-200364-1w55oa35-800x532-799x529.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
           },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/13-c.-capra-salone-n.3-p1-copia-1-782x600.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "&nbsp;Descrizione",
-          "text": "<p>Nel 1° salone d’ingresso padroneggia un soffitto ottocentesco a travi decorati con figure mitologiche e greco-romane. </p><p>Proseguendo, si accede ad un vano antibagno arricchito da un pavimento in mosaico originale del settecento e da un bellissimo soffitto magistralmente affrescato.</p><div>Il bagno è impreziosito da soffitti e pareti con stucchi tardo-barocchi.</div><div><br></div><div>Il 2° salone ci regala la vista di un soffitto affrescato d’ispirazione settecentesca con raffigurazioni esotiche e soggetti romantici; al centro padroneggia un meraviglioso lampadario di vetro di Murano color champagne a otto bracci.</div><p></p>",
+          "articleLayout": false,
           "_tags": [
             "Theme"
           ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#333333",
-              "font-size": "20px",
-              "text-align": "left"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff",
-              "font-size": "15px"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-10"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "30",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#7c706b",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/10-c.-capra-serie-di-sale-p.-nobile-4-460x600.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p>Arrivando nel 3° salone saremo accolti da un soffitto a volta, interamente affrescato con paesaggi campestri e bordure di chiara ispirazione barocca, anch'esso adornato da un lampadario in ottone a dodici bracci.</p><p><br></p><p>Infine la 4° sala è predisposta per un’eventuale cucina con annessa una sala da bagno.</p><p>Queste meravigliose sale sono collegate tra loro da un lungo corridoio incorniciato da apliques in vetro di Murano e soffitto policromo.</p><p>Quasi tutte le porte dell'edificio sono in legno massello con preziose cornici e bugne.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "font-size": "15px"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-12"
+          "_name": "gallery1",
+          "_anchor": "gallery1-2a"
         },
         {
           "_params": {
@@ -1153,8 +1038,8 @@
               "size": 0
             }
           },
-          "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna<br>",
-          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO:&nbsp;0541629151<br>CELL :3482944043",
+          "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna (IT)<br>",
+          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO: +39 0541 629151<br>CELL :+39 348 &nbsp;2944043",
           "text3": "<p class=\"mbr-contacts__text\"><strong>COPYRIGHT ©</strong></p><ul class=\"mbr-contacts__list\"><li>Raffaella Pedrazzi</li><li>C.F. PDRRFL70P53H294N</li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -1173,56 +1058,9 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Via Zirardini 14 Interno 4",
-        "order": 5
+        "order": 7
       },
       "components": [
-        {
-          "_params": {
-            "fullWidth": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "noGutter": false,
-            "showText": false,
-            "showBullets": false,
-            "bgColor": "#7c706b",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/casa-201428-800x532.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/casa-201428-800x532-799x532.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/casa-201429-800x532.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/casa-201429-800x532-799x532.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/soffitto-soggiorno-int.4-492x369.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/soffitto-soggiorno-int.4-492x369-491x369.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/soffitto-ingresso-int.4-492x369.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/soffitto-ingresso-int.4-492x369-491x369.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-18"
-        },
         {
           "_inherit": "msg-box5",
           "_params": {
@@ -1271,7 +1109,7 @@
             }
           },
           "title": "<br>Via Zirardini 14 interno 4",
-          "text": "<p>L’appartamento si trova al primo piano del palazzo, il“piano nobile”, e ha ingresso su Via Zirardini 14.<br></p><p>L’appartamento ha una superficie di circa 170 mq, è formato da un ampio ingresso-soggiorno con soffitto originale in legno a cassettoni, tre stanze, tre bagni, cucina, ripostiglio e cantina.</p><p>Si accede all’appartamento attraverso l’antico androne del palazzo e uno scalone gentilizio illuminati da lampioni in ferro battuto.</p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "text": "<p>L’appartamento si trova al primo piano del palazzo, il“piano nobile”, e ha ingresso su Via Zirardini 14. Ha una superficie di circa 170 mq, è formato da un ampio ingresso-soggiorno con soffitto originale in legno a cassettoni, tre stanze, tre bagni, cucina, ripostiglio e cantina. Si accede all’appartamento attraverso l’antico androne del palazzo e uno scalone gentilizio illuminati da lampioni in ferro battuto.</p><p><br></p><p><b><br></b></p><p><b>L’immobile risulta un perfetto luogo per ospitare uffici di rappresentanza o un’abitazione di prestigio.</b></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1293,52 +1131,58 @@
           "_anchor": "msg-box4-19"
         },
         {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff",
-              "text-align": "right"
-            }
-          },
           "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
+            "fullWidth": true,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
+            "noGutter": false,
+            "showText": false,
+            "showBullets": false,
             "bgColor": "#7c706b",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/casa-201428-800x532.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/casa-201428-800x532-799x532.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-5245-1148x1944.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5245-1148x1944-800x1364.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/soffitto-soggiorno-int.4-492x369.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/soffitto-soggiorno-int.4-492x369-491x369.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/soffitto-ingresso-int.4-492x369.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/soffitto-ingresso-int.4-492x369-491x369.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/casa-200736-799x532.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/casa-200736-799x532-795x525.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
           },
-          "title": "EASY TO USE!",
-          "text": "L’immobile risulta un perfetto luogo per ospitare uffici di rappresentanza o un’abitazione di prestigio.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "articleLayout": false,
           "_tags": [
             "Theme"
           ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-1e"
+          "_name": "gallery1",
+          "_anchor": "gallery1-18"
         },
         {
           "_styles": {
@@ -1347,7 +1191,7 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1.4em",
+              "font-size": "1.2em",
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
@@ -1370,15 +1214,11 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#333333",
-            "fontSize": "1.4",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
-            },
+            "fontSize": "1.2",
+            "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALTRI APPARTAMENTI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"true\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"true\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1426,8 +1266,8 @@
               "size": 0
             }
           },
-          "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna<br>",
-          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO:&nbsp;0541629151<br>CELL :3482944043",
+          "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna (IT)<br>",
+          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO: +39 0541 629151<br>CELL :+39 348 &nbsp;2944043",
           "text3": "<p class=\"mbr-contacts__text\"><strong>COPYRIGHT ©</strong></p><ul class=\"mbr-contacts__list\"><li>Raffaella Pedrazzi</li><li>C.F. PDRRFL70P53H294N</li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -1446,56 +1286,9 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Via IX Febbraio 11",
-        "order": 4
+        "order": 6
       },
       "components": [
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": false,
-            "showText": false,
-            "showBullets": true,
-            "bgColor": "#7c706b",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/ix-febbraio-11-sala-640x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ix-febbraio-11-sala-640x480-639x480.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/ix-febbraio-11-scala-ingresso-app.-1-360x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ix-febbraio-11-scala-ingresso-app.-1-360x480-288x216.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/ix-febbraio-11-corridoio-360x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ix-febbraio-11-corridoio-360x480-288x226.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/ix-febbraio-11-arco-stanza-d-angolo-640x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ix-febbraio-11-arco-stanza-d-angolo-640x480-639x480.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-1j"
-        },
         {
           "_inherit": "msg-box5",
           "_params": {
@@ -1544,7 +1337,7 @@
             }
           },
           "title": "Immobile Via IX Febbraio 11",
-          "text": "<p>L'appartamento è sito nella corte interna ed ha ingresso indipendente ed esclusivo su Via IX Febbraio 11</p><p>E' composto da un primo piano di circa 100 mq: 3 stanze, una sala predisposta per una eventuale cucina, due bagni e un salone d' ingresso.<br></p><p>Al piano terra, una cantina di 20 mq.&nbsp;</p><p><br></p><p><br></p><p>L’ immobile rappresenta un  perfetto luogo per ospitare uffici di rappresentanza o un' abitazione di prestigio.<br></p><p><br></p>",
+          "text": "<p>L'appartamento è sito nella corte interna ed ha ingresso indipendente ed esclusivo su Via IX Febbraio 11. E' composto da un primo piano di circa 100 mq: &nbsp;3 stanze, una sala predisposta per una eventuale cucina, due bagni e un salone d' ingresso.</p><p>Al piano terra, una cantina di 20 mq.&nbsp;</p><p><br></p><p><b>L’ immobile rappresenta un  perfetto luogo per ospitare uffici di rappresentanza o un' abitazione di prestigio.</b><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1566,13 +1359,60 @@
           "_anchor": "msg-box4-1i"
         },
         {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": false,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#7c706b",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/ix-febbraio-11-sala-640x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ix-febbraio-11-sala-640x480-639x480.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ix-febbraio-11-scala-ingresso-app.-1-360x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ix-febbraio-11-scala-ingresso-app.-1-360x480-288x216.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ix-febbraio-11-corridoio-360x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ix-febbraio-11-corridoio-360x480-288x226.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ix-febbraio-11-arco-stanza-d-angolo-640x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ix-febbraio-11-arco-stanza-d-angolo-640x480-639x480.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1j"
+        },
+        {
           "_styles": {
             ".hide-buttons [data-button]": {
               "display": "none !important"
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1.4em",
+              "font-size": "1.2em",
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
@@ -1595,15 +1435,11 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#333333",
-            "fontSize": "1.4",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
-            },
+            "fontSize": "1.2",
+            "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALTRI APPARTAMENTI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"true\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"true\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1652,8 +1488,8 @@
               "size": 0
             }
           },
-          "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna<br>",
-          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO:&nbsp;0541629151<br>CELL :3482944043",
+          "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna (IT)<br>",
+          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO: +39 0541 629151<br>CELL :+39 348 &nbsp;2944043",
           "text3": "<p class=\"mbr-contacts__text\"><strong>COPYRIGHT ©</strong></p><ul class=\"mbr-contacts__list\"><li>Raffaella Pedrazzi</li><li>C.F. PDRRFL70P53H294N</li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -1672,9 +1508,61 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Via IX Febbraio 7",
-        "order": 2
+        "order": 4
       },
       "components": [
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            ".mbr-article DIV": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7c706b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Immobile Via IX Febbraio 7",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>L'appartamento è sito nella corte interna del palazzo con ingresso privato<br></p><p></p><div>Immobile di 100 Mq sviluppato su 2 piani con giardinetto di 40 mq ad uso esclusivo.<br></div><div>Piano terra: cucina, bagno, giardinetto,.</div><div>Primo piano: sala, 2 camere, bagno.</div><div><br></div><div><b>L’ immobile rappresenta un  perfetto luogo per ospitare uffici di rappresentanza o un' abitazione di prestigio.</b></div><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1q"
+        },
         {
           "_params": {
             "fullWidth": false,
@@ -1731,64 +1619,12 @@
         },
         {
           "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-article P": {
-              "color": "#ffffff",
-              "text-align": "left"
-            },
-            ".mbr-article DIV": {
-              "color": "#ffffff",
-              "text-align": "left"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#7c706b",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Immobile Via IX Febbraio 7",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>L'appartamento è sito nella corte interna del palazzo con ingresso privato<br></p><p></p><div>Immobile di 100 Mq sviluppato su 2 piani con giardinetto di 40 mq ad uso esclusivo.<br></div><div>Piano terra: cucina, bagno, giardinetto,.</div><div>Primo piano: sala, 2 camere, bagno.</div><div><br></div><div><b>L’ immobile rappresenta un  perfetto luogo per ospitare uffici di rappresentanza o un' abitazione di prestigio.</b></div><p></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-1q"
-        },
-        {
-          "_styles": {
             ".hide-buttons [data-button]": {
               "display": "none !important"
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1.4em",
+              "font-size": "1.2em",
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
@@ -1811,15 +1647,11 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#333333",
-            "fontSize": "1.4",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
-            },
+            "fontSize": "1.2",
+            "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALTRI APPARTAMENTI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"true\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"true\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1868,8 +1700,8 @@
               "size": 0
             }
           },
-          "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna<br>",
-          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO:&nbsp;0541629151<br>CELL :3482944043",
+          "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna (IT)<br>",
+          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO: +39 0541 629151<br>CELL :+39 348 &nbsp;2944043",
           "text3": "<p class=\"mbr-contacts__text\"><strong>COPYRIGHT ©</strong></p><ul class=\"mbr-contacts__list\"><li>Raffaella Pedrazzi</li><li>C.F. PDRRFL70P53H294N</li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -1888,56 +1720,9 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Via IX Febbraio 5",
-        "order": 3
+        "order": 5
       },
       "components": [
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": "4",
-            "noGutter": false,
-            "showText": false,
-            "showBullets": true,
-            "bgColor": "#7c706b",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/casa-200343-640x428.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/casa-200343-640x428-638x428.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/casa-200370-800x516.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/casa-200370-800x516-795x515.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/casa-200439-319x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/casa-200439-319x480-318x427.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/casa-200466-640x425.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/casa-200466-640x425-638x424.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-1x"
-        },
         {
           "_inherit": "msg-box5",
           "_params": {
@@ -2077,13 +1862,60 @@
           "_anchor": "msg-box4-22"
         },
         {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": "4",
+            "noGutter": false,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#7c706b",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/casa-200343-640x428.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/casa-200343-640x428-638x428.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/casa-200370-800x516.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/casa-200370-800x516-795x515.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/casa-200439-319x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/casa-200439-319x480-318x427.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/casa-200466-640x425.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/casa-200466-640x425-638x424.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1x"
+        },
+        {
           "_styles": {
             ".hide-buttons [data-button]": {
               "display": "none !important"
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1.4em",
+              "font-size": "1.2em",
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
@@ -2106,15 +1938,11 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#333333",
-            "fontSize": "1.4",
-            "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
-            },
+            "fontSize": "1.2",
+            "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALTRI APPARTAMENTI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"true\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"true\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2163,8 +1991,8 @@
               "size": 0
             }
           },
-          "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna<br>",
-          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO:&nbsp;0541629151<br>CELL :3482944043",
+          "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna (IT)<br>",
+          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO: +39 0541 629151<br>CELL :+39 348 &nbsp;2944043",
           "text3": "<p class=\"mbr-contacts__text\"><strong>COPYRIGHT ©</strong></p><ul class=\"mbr-contacts__list\"><li>Raffaella Pedrazzi</li><li>C.F. PDRRFL70P53H294N</li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -2176,6 +2004,380 @@
             }
           },
           "_anchor": "contacts1-20"
+        }
+      ]
+    },
+    "page9.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Altri Immobili",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#333333",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"true\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"true\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-03-27-at-18.44.37-408x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-23"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-03-27-at-21.39.44-88x85.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna (IT)<br>",
+          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO: +39 0541 629151<br>CELL :+39 348 &nbsp;2944043",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>COPYRIGHT ©</strong></p><ul class=\"mbr-contacts__list\"><li>Raffaella Pedrazzi</li><li>C.F. PDRRFL70P53H294N</li><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "contacts1-24"
+        }
+      ]
+    },
+    "page10.html": {
+      "settings": {
+        "meta_descr": "Site Generator Description",
+        "title": "Porta Serrata 13 Piano Terra",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/porta-serrata-piano-terra-1-1400x663.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "assets/files/-%20porta%20serrata%20primo%20piano.pdf",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-28"
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#333333",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"true\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"true\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-03-27-at-18.44.37-408x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-25"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-03-27-at-21.39.44-88x85.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna (IT)<br>",
+          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO: +39 0541 629151<br>CELL :+39 348 &nbsp;2944043",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>COPYRIGHT ©</strong></p><ul class=\"mbr-contacts__list\"><li>Raffaella Pedrazzi</li><li>C.F. PDRRFL70P53H294N</li><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "contacts1-26"
+        }
+      ]
+    },
+    "page11.html": {
+      "settings": {
+        "meta_descr": "Site Generator Description",
+        "title": "Porta Serrata 13 Primo Piano",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-porta-serrata-primo-piano-1400x614.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "assets/files/-%20porta%20serrata%20primo%20piano.pdf",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2d"
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#333333",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"true\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"true\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-03-27-at-18.44.37-408x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-2e"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-03-27-at-21.39.44-88x85.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna (IT)<br>",
+          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO: +39 0541 629151<br>CELL :+39 348 &nbsp;2944043",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>COPYRIGHT ©</strong></p><ul class=\"mbr-contacts__list\"><li>Raffaella Pedrazzi</li><li>C.F. PDRRFL70P53H294N</li><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "contacts1-2f"
         }
       ]
     }

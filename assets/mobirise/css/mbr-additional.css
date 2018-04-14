@@ -1,7 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 
 
 
@@ -10,9 +9,8 @@
 }
 #dropdown-menu-0 .nav .link,
 #dropdown-menu-0 .dropdown-item {
-  font-size: 1.4em;
+  font-size: 1.2em;
   color: #ffffff;
-  font-family: 'Oswald', sans-serif;
 }
 #dropdown-menu-0 .navbar,
 #dropdown-menu-0 .dropdown-menu {
@@ -43,7 +41,6 @@
 #slider-3 B {
   font-family: 'Montserrat', sans-serif;
   font-size: 15px;
-  color: #ffffff;
 }
 #slider-3 I {
   color: #ffffff;
@@ -128,12 +125,13 @@
 #contacts1-a P {
   font-size: 12px;
 }
+
 #dropdown-menu-c .hide-buttons [data-button] {
   display: none !important;
 }
 #dropdown-menu-c .nav .link,
 #dropdown-menu-c .dropdown-item {
-  font-size: 1.4em;
+  font-size: 1.2em;
   color: #ffffff;
 }
 #dropdown-menu-c .navbar,
@@ -151,11 +149,13 @@
 #dropdown-menu-c .btn {
   font-size: 15px;
 }
-#contacts2-k P {
-  font-size: 17px;
+#header3-2c B {
+  font-family: 'Slabo 27px', serif;
+  font-size: 23px;
 }
-#contacts2-k STRONG {
-  font-size: 16px;
+#header3-2c P {
+  font-size: 20px;
+  text-align: left;
 }
 #footer1-l P {
   text-align: center;
@@ -165,7 +165,7 @@
 }
 #dropdown-menu-m .nav .link,
 #dropdown-menu-m .dropdown-item {
-  font-size: 1.4em;
+  font-size: 1.2em;
   color: #ffffff;
 }
 #dropdown-menu-m .navbar,
@@ -199,31 +199,7 @@
   text-align: left;
 }
 #msg-box4-u .mbr-header__subtext SPAN {
-  font-size: 15px;
-}
-#msg-box4-10 .mbr-header__text {
-  color: #333333;
-  font-size: 20px;
-  text-align: left;
-}
-#msg-box4-10 .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box4-10 .mbr-article {
-  color: #ffffff;
-  font-size: 15px;
-}
-#msg-box4-12 .mbr-header__text {
-  color: #ffffff;
-}
-#msg-box4-12 .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box4-12 .mbr-article {
-  color: #ffffff;
-}
-#msg-box4-12 .mbr-article P {
-  font-size: 15px;
+  font-size: 17px;
 }
 #contacts1-a P {
   font-size: 12px;
@@ -237,24 +213,12 @@
 #msg-box4-19 .mbr-article {
   color: #ffffff;
 }
-#content5-1e .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
-}
-#content5-1e .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-1e .mbr-article {
-  color: #ffffff;
-  text-align: right;
-}
 #dropdown-menu-16 .hide-buttons [data-button] {
   display: none !important;
 }
 #dropdown-menu-16 .nav .link,
 #dropdown-menu-16 .dropdown-item {
-  font-size: 1.4em;
+  font-size: 1.2em;
   color: #ffffff;
 }
 #dropdown-menu-16 .navbar,
@@ -289,7 +253,7 @@
 }
 #dropdown-menu-1f .nav .link,
 #dropdown-menu-1f .dropdown-item {
-  font-size: 1.4em;
+  font-size: 1.2em;
   color: #ffffff;
 }
 #dropdown-menu-1f .navbar,
@@ -332,7 +296,7 @@
 }
 #dropdown-menu-1k .nav .link,
 #dropdown-menu-1k .dropdown-item {
-  font-size: 1.4em;
+  font-size: 1.2em;
   color: #ffffff;
 }
 #dropdown-menu-1k .navbar,
@@ -376,7 +340,7 @@
 }
 #dropdown-menu-1z .nav .link,
 #dropdown-menu-1z .dropdown-item {
-  font-size: 1.4em;
+  font-size: 1.2em;
   color: #ffffff;
 }
 #dropdown-menu-1z .navbar,
@@ -395,5 +359,83 @@
   font-size: 15px;
 }
 #contacts1-20 P {
+  font-size: 12px;
+}
+#dropdown-menu-23 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-23 .nav .link,
+#dropdown-menu-23 .dropdown-item {
+  font-size: 1.2em;
+  color: #ffffff;
+}
+#dropdown-menu-23 .navbar,
+#dropdown-menu-23 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-23 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-23 .dropdown-menu a:hover,
+#dropdown-menu-23 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-23 .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-23 .btn {
+  font-size: 15px;
+}
+#contacts1-24 P {
+  font-size: 12px;
+}
+#dropdown-menu-25 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-25 .nav .link,
+#dropdown-menu-25 .dropdown-item {
+  font-size: 1.2em;
+  color: #ffffff;
+}
+#dropdown-menu-25 .navbar,
+#dropdown-menu-25 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-25 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-25 .dropdown-menu a:hover,
+#dropdown-menu-25 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-25 .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-25 .btn {
+  font-size: 15px;
+}
+#contacts1-26 P {
+  font-size: 12px;
+}
+#dropdown-menu-2e .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2e .nav .link,
+#dropdown-menu-2e .dropdown-item {
+  font-size: 1.2em;
+  color: #ffffff;
+}
+#dropdown-menu-2e .navbar,
+#dropdown-menu-2e .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2e .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2e .dropdown-menu a:hover,
+#dropdown-menu-2e .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2e .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-2e .btn {
+  font-size: 15px;
+}
+#contacts1-2f P {
   font-size: 12px;
 }
