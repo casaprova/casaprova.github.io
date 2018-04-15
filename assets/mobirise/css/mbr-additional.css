@@ -78,7 +78,7 @@
 }
 #dropdown-menu-5 .nav .link,
 #dropdown-menu-5 .dropdown-item {
-  font-size: 1.4em;
+  font-size: 1.2em;
   color: #ffffff;
 }
 #dropdown-menu-5 .navbar,
@@ -152,10 +152,16 @@
 #header3-2c B {
   font-family: 'Slabo 27px', serif;
   font-size: 23px;
+  color: #333333;
 }
 #header3-2c P {
-  font-size: 20px;
+  font-size: 23px;
   text-align: left;
+  color: #333333;
+}
+#header3-2c SPAN {
+  color: #777777;
+  font-size: 19px;
 }
 #footer1-l P {
   text-align: center;
