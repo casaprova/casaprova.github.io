@@ -43,10 +43,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#777777"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#6d6d6d"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -61,7 +61,7 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#777777",
             "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff"
@@ -412,7 +412,7 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#777777",
             "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff"
@@ -627,7 +627,7 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#777777",
             "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff"
@@ -715,10 +715,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#777777"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#6d6d6d"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -733,7 +733,7 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#777777",
             "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff"
@@ -763,7 +763,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "<span style=\"font-style: normal;\"><b>Indirizzo</b> &nbsp;</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><span style=\"font-style: normal;\">Via Zirardini 14 angolo via IX Febbraio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>Centro storico di Ravenna (IT) &nbsp;</span><br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><b style=\"font-style: normal;\">Contatti&nbsp;</b> &nbsp; <br><span style=\"font-style: normal;\">raffaellapedrazzi@gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><br><span style=\"font-style: normal;\">Cell: +39&nbsp;348 2944043<br>Telefono: +39 0541 629151</span><br>",
+          "meta": "<span style=\"font-style: normal;\"><b>Indirizzo</b> &nbsp;</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><span style=\"font-style: normal;\">Via Zirardini 14 angolo via IX Febbraio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>Centro storico di Ravenna (IT) &nbsp;</span><br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><b style=\"font-style: normal;\">Contatti&nbsp;</b> &nbsp; <br><span style=\"font-style: normal;\">raffaellapedrazzi@gmail.com &nbsp; </span><br><span style=\"font-style: normal;\">Cell: +39&nbsp;348 2944043<br>Telefono: +39 0541 629151</span><span style=\"font-style: normal;\"><br></span><br>",
           "_tags": [
             "Theme"
           ],
@@ -782,7 +782,7 @@
               "color": "#333333"
             },
             "SPAN": {
-              "color": "#777777",
+              "color": "#333333",
               "font-size": "19px"
             }
           }
@@ -865,7 +865,7 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#777777",
             "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff"
@@ -1226,7 +1226,7 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#777777",
             "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff"
@@ -1447,7 +1447,7 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#777777",
             "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff"
@@ -1659,7 +1659,7 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#777777",
             "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff"
@@ -1950,7 +1950,7 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#777777",
             "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff"
@@ -2056,7 +2056,7 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#777777",
             "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff"
@@ -2190,7 +2190,7 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#777777",
             "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff"
@@ -2324,7 +2324,7 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#777777",
             "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff"
