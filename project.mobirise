@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "casa capra",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,13 +13,13 @@
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 88,
+    "uniqCompNum": 89,
     "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global Site Tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA_15663469-5\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA_15663469-5');\r\n</script>",
     "cookiesAlert": "Questo sito fa uso di cookie per migliorare l’esperienza di navigazione degli utenti e per raccogliere informazioni sull’utilizzo del sito stesso. Utilizziamo sia cookie tecnici sia cookie di parti terze per inviare messaggi promozionali sulla base dei comportamenti degli utenti. Può conoscere i dettagli consultando la nostra privacy policy qui. Proseguendo nella navigazione si accetta l’uso dei cookie; in caso contrario è possibile abbandonare il sito."
   },
   "pages": {
@@ -27,7 +27,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "Casa Capra Ravenna apaprtamenti di prestigio in palazzo storico del 1600",
+        "meta_descr": "Casa Capra Ravenna appartamenti di prestigio in palazzo storico del 1600",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -706,6 +706,19 @@
       },
       "components": [
         {
+          "text": "<p><b>Indirizzo:</b></p><p>Via Zirardini 14 angolo via IX Febbraio&nbsp;</p><p>Centro storico di Ravenna</p><p><b>Contatti:</b></p><p>raffaellapedrazzi@gmail.com &nbsp;&nbsp;</p><p>Cell: +39 348 2944043</p><p>Telefono: +39 0541 629151</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2g",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
           "_styles": {
             ".hide-buttons [data-button]": {
               "display": "none !important"
@@ -716,10 +729,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#777777"
+              "background": "#3c3c3c"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#6d6d6d"
+              "background": "#323232"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -758,35 +771,6 @@
           ],
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-c"
-        },
-        {
-          "_params": {
-            "showMeta": true
-          },
-          "title": "",
-          "meta": "<span style=\"font-style: normal;\"><b>Indirizzo</b> &nbsp;</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><span style=\"font-style: normal;\">Via Zirardini 14 angolo via IX Febbraio &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>Centro storico di Ravenna (IT) &nbsp;</span><br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><b style=\"font-style: normal;\">Contatti&nbsp;</b> &nbsp; <br><span style=\"font-style: normal;\">raffaellapedrazzi@gmail.com &nbsp; </span><br><span style=\"font-style: normal;\">Cell: +39&nbsp;348 2944043<br>Telefono: +39 0541 629151</span><span style=\"font-style: normal;\"><br></span><br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2c",
-          "_styles": {
-            "B": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "23px",
-              "color": "#333333"
-            },
-            "P": {
-              "font-size": "23px",
-              "text-align": "left",
-              "color": "#333333"
-            },
-            "SPAN": {
-              "color": "#333333",
-              "font-size": "19px"
-            }
-          }
         },
         {
           "_params": {
@@ -2173,10 +2157,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#3c3c3c"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#323232"
             },
             ".navbar-toggler": {
               "color": "#ffffff"

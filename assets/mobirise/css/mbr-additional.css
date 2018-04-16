@@ -1,6 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 
 
 
@@ -125,7 +124,9 @@
 #contacts1-a P {
   font-size: 12px;
 }
-
+#content1-2g P {
+  font-size: 20px;
+}
 #dropdown-menu-c .hide-buttons [data-button] {
   display: none !important;
 }
@@ -136,32 +137,18 @@
 }
 #dropdown-menu-c .navbar,
 #dropdown-menu-c .dropdown-menu {
-  background: #777777;
+  background: #3c3c3c;
 }
 #dropdown-menu-c .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-c .dropdown-menu a:hover,
 #dropdown-menu-c .dropdown-menu a:focus {
-  background: #6d6d6d;
+  background: #323232;
 }
 #dropdown-menu-c .navbar-toggler {
   color: #ffffff;
 }
 #dropdown-menu-c .btn {
   font-size: 15px;
-}
-#header3-2c B {
-  font-family: 'Slabo 27px', serif;
-  font-size: 23px;
-  color: #333333;
-}
-#header3-2c P {
-  font-size: 23px;
-  text-align: left;
-  color: #333333;
-}
-#header3-2c SPAN {
-  color: #333333;
-  font-size: 19px;
 }
 #footer1-l P {
   text-align: center;
@@ -403,12 +390,12 @@
 }
 #dropdown-menu-25 .navbar,
 #dropdown-menu-25 .dropdown-menu {
-  background: #333333;
+  background: #3c3c3c;
 }
 #dropdown-menu-25 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-25 .dropdown-menu a:hover,
 #dropdown-menu-25 .dropdown-menu a:focus {
-  background: #292929;
+  background: #323232;
 }
 #dropdown-menu-25 .navbar-toggler {
   color: #ffffff;
