@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "casa capra",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -230,7 +230,7 @@
             }
           },
           "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna (IT)<br>",
-          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO: +39 0541 629151<br>CELL :+39 348 &nbsp;2944043",
+          "text2": "<strong>CONTATTI</strong><br>\nEmail: <a href=\"mailto:raffaellapedrazzi@gmail.com\">raffaellapedrazzi@gmail.com</a><br>TELEFONO: <a href=\"tel:+39-0541-629151\">+39 0541 629151</a><br>CELL :<a href=\"tel:+39-348-2944043\">+39 348 &nbsp;2944043</a>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>COPYRIGHT ©</strong></p><ul class=\"mbr-contacts__list\"><li>Raffaella Pedrazzi</li><li>C.F. PDRRFL70P53H294N</li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -477,7 +477,7 @@
             }
           },
           "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna (IT)<br>",
-          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO: +39 0541 629151<br>CELL :+39 348 &nbsp;2944043",
+          "text2": "<strong>CONTATTI</strong><br>\nEmail: <a href=\"mailto:raffaellapedrazzi@gmail.com\">raffaellapedrazzi@gmail.com</a><br>TELEFONO: <a href=\"tel:+39-0541-629151\">+39 0541 629151</a><br>CELL :<a href=\"tel:+39-348-2944043\">+39 348 &nbsp;2944043</a>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>COPYRIGHT ©</strong></p><ul class=\"mbr-contacts__list\"><li>Raffaella Pedrazzi</li><li>C.F. PDRRFL70P53H294N</li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -693,7 +693,7 @@
             }
           },
           "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna (IT)<br>",
-          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO: +39 0541 629151<br>CELL :+39 348 &nbsp;2944043",
+          "text2": "<strong>CONTATTI</strong><br>\nEmail: <a href=\"mailto:raffaellapedrazzi@gmail.com\">raffaellapedrazzi@gmail.com</a><br>TELEFONO: <a href=\"tel:+39-0541-629151\">+39 0541 629151</a><br>CELL :<a href=\"tel:+39-348-2944043\">+39 348 &nbsp;2944043</a>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>COPYRIGHT ©</strong></p><ul class=\"mbr-contacts__list\"><li>Raffaella Pedrazzi</li><li>C.F. PDRRFL70P53H294N</li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -1047,7 +1047,7 @@
             }
           },
           "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna (IT)<br>",
-          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO: +39 0541 629151<br>CELL :+39 348 &nbsp;2944043",
+          "text2": "<strong>CONTATTI</strong><br>\nEmail: <a href=\"mailto:raffaellapedrazzi@gmail.com\">raffaellapedrazzi@gmail.com</a><br>TELEFONO: <a href=\"tel:+39-0541-629151\">+39 0541 629151</a><br>CELL :<a href=\"tel:+39-348-2944043\">+39 348 &nbsp;2944043</a>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>COPYRIGHT ©</strong></p><ul class=\"mbr-contacts__list\"><li>Raffaella Pedrazzi</li><li>C.F. PDRRFL70P53H294N</li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -1274,7 +1274,7 @@
             }
           },
           "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna (IT)<br>",
-          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO: +39 0541 629151<br>CELL :+39 348 &nbsp;2944043",
+          "text2": "<strong>CONTATTI</strong><br>\nEmail: <a href=\"mailto:raffaellapedrazzi@gmail.com\">raffaellapedrazzi@gmail.com</a><br>TELEFONO: <a href=\"tel:+39-0541-629151\">+39 0541 629151</a><br>CELL :<a href=\"tel:+39-348-2944043\">+39 348 &nbsp;2944043</a>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>COPYRIGHT ©</strong></p><ul class=\"mbr-contacts__list\"><li>Raffaella Pedrazzi</li><li>C.F. PDRRFL70P53H294N</li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -1496,7 +1496,7 @@
             }
           },
           "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna (IT)<br>",
-          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO: +39 0541 629151<br>CELL :+39 348 &nbsp;2944043",
+          "text2": "<strong>CONTATTI</strong><br>\nEmail: <a href=\"mailto:raffaellapedrazzi@gmail.com\">raffaellapedrazzi@gmail.com</a><br>TELEFONO: <a href=\"tel:+39-0541-629151\">+39 0541 629151</a><br>CELL :<a href=\"tel:+39-348-2944043\">+39 348 &nbsp;2944043</a>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>COPYRIGHT ©</strong></p><ul class=\"mbr-contacts__list\"><li>Raffaella Pedrazzi</li><li>C.F. PDRRFL70P53H294N</li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -1708,7 +1708,7 @@
             }
           },
           "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna (IT)<br>",
-          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO: +39 0541 629151<br>CELL :+39 348 &nbsp;2944043",
+          "text2": "<strong>CONTATTI</strong><br>\nEmail: <a href=\"mailto:raffaellapedrazzi@gmail.com\">raffaellapedrazzi@gmail.com</a><br>TELEFONO: <a href=\"tel:+39-0541-629151\">+39 0541 629151</a><br>CELL :<a href=\"tel:+39-348-2944043\">+39 348 &nbsp;2944043</a>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>COPYRIGHT ©</strong></p><ul class=\"mbr-contacts__list\"><li>Raffaella Pedrazzi</li><li>C.F. PDRRFL70P53H294N</li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -1999,7 +1999,7 @@
             }
           },
           "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna (IT)<br>",
-          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO: +39 0541 629151<br>CELL :+39 348 &nbsp;2944043",
+          "text2": "<strong>CONTATTI</strong><br>\nEmail: <a href=\"mailto:raffaellapedrazzi@gmail.com\">raffaellapedrazzi@gmail.com</a><br>TELEFONO: <a href=\"tel:+39-0541-629151\">+39 0541 629151</a><br>CELL :<a href=\"tel:+39-348-2944043\">+39 348 &nbsp;2944043</a>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>COPYRIGHT ©</strong></p><ul class=\"mbr-contacts__list\"><li>Raffaella Pedrazzi</li><li>C.F. PDRRFL70P53H294N</li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -2105,7 +2105,7 @@
             }
           },
           "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna (IT)<br>",
-          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO: +39 0541 629151<br>CELL :+39 348 &nbsp;2944043",
+          "text2": "<strong>CONTATTI</strong><br>\nEmail: <a href=\"mailto:raffaellapedrazzi@gmail.com\">raffaellapedrazzi@gmail.com</a><br>TELEFONO: <a href=\"tel:+39-0541-629151\">+39 0541 629151</a><br>CELL :<a href=\"tel:+39-348-2944043\">+39 348 &nbsp;2944043</a>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>COPYRIGHT ©</strong></p><ul class=\"mbr-contacts__list\"><li>Raffaella Pedrazzi</li><li>C.F. PDRRFL70P53H294N</li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -2239,7 +2239,7 @@
             }
           },
           "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna (IT)<br>",
-          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO: +39 0541 629151<br>CELL :+39 348 &nbsp;2944043",
+          "text2": "<strong>CONTATTI</strong><br>\nEmail: <a href=\"mailto:raffaellapedrazzi@gmail.com\">raffaellapedrazzi@gmail.com</a><br>TELEFONO: <a href=\"tel:+39-0541-629151\">+39 0541 629151</a><br>CELL :<a href=\"tel:+39-348-2944043\">+39 348 &nbsp;2944043</a>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>COPYRIGHT ©</strong></p><ul class=\"mbr-contacts__list\"><li>Raffaella Pedrazzi</li><li>C.F. PDRRFL70P53H294N</li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -2373,7 +2373,7 @@
             }
           },
           "text1": "<b>INDIRIZZO</b><br>Casa Capra<br>Via Zirardini 14 angolo Via IX Febbraio <br>48100 Ravenna (IT)<br>",
-          "text2": "<strong>CONTATTI</strong><br>\nEmail: raffaellapedrazzi@gmail.com<br>TELEFONO: +39 0541 629151<br>CELL :+39 348 &nbsp;2944043",
+          "text2": "<strong>CONTATTI</strong><br>\nEmail: <a href=\"mailto:raffaellapedrazzi@gmail.com\">raffaellapedrazzi@gmail.com</a><br>TELEFONO: <a href=\"tel:+39-0541-629151\">+39 0541 629151</a><br>CELL :<a href=\"tel:+39-348-2944043\">+39 348 &nbsp;2944043</a>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>COPYRIGHT ©</strong></p><ul class=\"mbr-contacts__list\"><li>Raffaella Pedrazzi</li><li>C.F. PDRRFL70P53H294N</li><li><br></li></ul>",
           "_tags": [
             "Theme"
