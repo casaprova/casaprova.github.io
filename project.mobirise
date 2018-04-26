@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "casa capra",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -95,7 +95,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "showBullets": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#777777",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/portone-860x404.jpg",
@@ -134,12 +134,12 @@
                 "overlay": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/casa-200765-1-2000x1331.jpg",
+                "image": "@PROJECT_PATH@/assets/images/casa-200765-2000x1331.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "<br><br>Casa Capra Ravenna",
+                "title": "<div><br></div><br><div>Casa Capra Ravenna<br></div>",
                 "contentAlign": "center",
                 "text": "<i><b>&nbsp;Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna.<br></b></i><i><b>Casa Capra ti offre appartamenti</b></i><br><i><b> prestigiosi di varie metrature<br>in affitto uso ufficio o abitazione.</b></i><br><br><br><br><br><br><i><b><br></b></i>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -1167,8 +1167,22 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/casa-200736-799x532.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/casa-200736-799x532-795x525.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-5356-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5356-2000x2667-800x1067.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-5355-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5355-2000x2667-800x1066.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-5357-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5357-2000x2667-800x1067.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
@@ -1193,10 +1207,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#3c3c3c"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#323232"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
