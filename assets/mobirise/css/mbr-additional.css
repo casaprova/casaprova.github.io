@@ -1,5 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
 
 
 
@@ -27,23 +28,31 @@
   font-size: 15px;
 }
 #slider-3 H1 {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Open Sans', sans-serif;
   text-align: left;
   color: #ffffff;
-  font-size: 30px;
+  font-size: 36px;
 }
 #slider-3 P {
   text-align: left;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 22px;
 }
 #slider-3 B {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 22px;
 }
 #slider-3 I {
   color: #ffffff;
   font-size: 15px;
+}
+#slider-3 DIV {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 36px;
+}
+#slider-3 SPAN {
+  font-size: 36px;
+  font-family: 'Open Sans', sans-serif;
 }
 #contacts1-4 P {
   font-size: 12px;
@@ -108,12 +117,12 @@
 }
 #dropdown-menu-9 .navbar,
 #dropdown-menu-9 .dropdown-menu {
-  background: #333333;
+  background: #3c3c3c;
 }
 #dropdown-menu-9 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-9 .dropdown-menu a:hover,
 #dropdown-menu-9 .dropdown-menu a:focus {
-  background: #292929;
+  background: #323232;
 }
 #dropdown-menu-9 .navbar-toggler {
   color: #ffffff;
@@ -163,12 +172,12 @@
 }
 #dropdown-menu-m .navbar,
 #dropdown-menu-m .dropdown-menu {
-  background: #333333;
+  background: #3c3c3c;
 }
 #dropdown-menu-m .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-m .dropdown-menu a:hover,
 #dropdown-menu-m .dropdown-menu a:focus {
-  background: #292929;
+  background: #323232;
 }
 #dropdown-menu-m .navbar-toggler {
   color: #ffffff;
@@ -251,12 +260,12 @@
 }
 #dropdown-menu-1f .navbar,
 #dropdown-menu-1f .dropdown-menu {
-  background: #333333;
+  background: #3c3c3c;
 }
 #dropdown-menu-1f .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-1f .dropdown-menu a:hover,
 #dropdown-menu-1f .dropdown-menu a:focus {
-  background: #292929;
+  background: #323232;
 }
 #dropdown-menu-1f .navbar-toggler {
   color: #ffffff;
@@ -294,12 +303,12 @@
 }
 #dropdown-menu-1k .navbar,
 #dropdown-menu-1k .dropdown-menu {
-  background: #333333;
+  background: #3c3c3c;
 }
 #dropdown-menu-1k .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-1k .dropdown-menu a:hover,
 #dropdown-menu-1k .dropdown-menu a:focus {
-  background: #292929;
+  background: #323232;
 }
 #dropdown-menu-1k .navbar-toggler {
   color: #ffffff;
@@ -338,12 +347,12 @@
 }
 #dropdown-menu-1z .navbar,
 #dropdown-menu-1z .dropdown-menu {
-  background: #333333;
+  background: #3c3c3c;
 }
 #dropdown-menu-1z .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-1z .dropdown-menu a:hover,
 #dropdown-menu-1z .dropdown-menu a:focus {
-  background: #292929;
+  background: #323232;
 }
 #dropdown-menu-1z .navbar-toggler {
   color: #ffffff;
@@ -364,12 +373,12 @@
 }
 #dropdown-menu-23 .navbar,
 #dropdown-menu-23 .dropdown-menu {
-  background: #333333;
+  background: #3c3c3c;
 }
 #dropdown-menu-23 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-23 .dropdown-menu a:hover,
 #dropdown-menu-23 .dropdown-menu a:focus {
-  background: #292929;
+  background: #323232;
 }
 #dropdown-menu-23 .navbar-toggler {
   color: #ffffff;

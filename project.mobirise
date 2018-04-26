@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "casa capra",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -67,7 +67,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13, Ravenna</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -90,7 +90,7 @@
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -99,49 +99,37 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/portone-860x404.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "<br>Casa Capra Ravenna<br>",
+                "title": "<br><span style=\"font-weight: normal;\">Casa Capra Ravenna</span><br>",
                 "contentAlign": "left",
-                "text": "<i><b>Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna.<br></b></i><i><b>Casa Capra ti offre appartamenti </b></i><br><i><b>prestigiosi di varie metrature<br>in affitto uso ufficio o abitazione.</b></i><br><br><i><b><br></b></i>",
+                "text": "Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna.<br>Casa Capra ti offre appartamenti <br>prestigiosi di varie metrature<br>in affitto uso ufficio o abitazione.<br><br><i><b><br></b></i>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/casa-201499-2000x1331.jpg",
+                "image": "@PROJECT_PATH@/assets/images/image020-2-900x599.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "<br><br>Casa Capra Ravenna",
+                "title": "<br><br><span style=\"font-weight: normal;\">Casa Capra Ravenna</span>",
                 "contentAlign": "left",
-                "text": "<b><i>Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna</i></b><br><b><i>Casa Capra ti offre appartamenti </i></b><br><b><i>prestigiosi </i></b><b><i>di varie metrature</i></b><br><b><i> in affitto uso ufficio o abitazione.</i></b><br><br><br><br><br><br><br><br><br><b><i><br></i></b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/abitazione-124909-900x599.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "title": "<br>Casa Capra Ravenna",
-                "contentAlign": "left",
-                "text": "<b><i>Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna.<br>Casa Capra ti offre appartamenti </i></b><br><b><i>prestigiosi di varie metrature<br>in affitto uso ufficio o abitazione.</i></b><br><br><b><i><br></i></b>",
+                "text": "Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna<br>Casa Capra ti offre appartamenti <br>prestigiosi di varie metrature<br> in affitto uso ufficio o abitazione.<br><br><br><br><br><br><br><br><br><b><i><br></i></b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/casa-200765-2000x1331.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "<div><br></div><br><div>Casa Capra Ravenna<br></div>",
+                "title": "<div><br></div><br><div><span style=\"font-weight: normal;\">Casa Capra Ravenna</span><br></div>",
                 "contentAlign": "center",
-                "text": "<i><b>&nbsp;Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna.<br></b></i><i><b>Casa Capra ti offre appartamenti</b></i><br><i><b> prestigiosi di varie metrature<br>in affitto uso ufficio o abitazione.</b></i><br><br><br><br><br><br><i><b><br></b></i>",
+                "text": "Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna.<br>Casa Capra ti offre appartamenti<br> prestigiosi di varie metrature<br>in affitto uso ufficio o abitazione.<br><br><br><br><br><br><i><b><br></b></i>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": false
               },
@@ -151,9 +139,21 @@
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "<br>Casa Capra Ravenna",
+                "title": "<br><span style=\"font-weight: normal;\">Casa Capra Ravenna</span>",
                 "contentAlign": "left",
-                "text": "<b><i>Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna.<br>Casa Capra ti offre appartamenti </i></b><br><b><i>prestigiosi di varie metrature<br>in affitto uso ufficio o abitazione.</i></b><br><br><b><i><br></i></b>",
+                "text": "Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna.<br>Casa Capra ti offre appartamenti <br>prestigiosi di varie metrature<br>in affitto uso ufficio o abitazione.<br><br><b><i><br></i></b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/abitazione-124909-900x599.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<br><br><br><span style=\"font-weight: normal;\">Casa Capra Ravenna</span>",
+                "contentAlign": "left",
+                "text": "Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna.<br>Casa Capra ti offre appartamenti <br>prestigiosi di varie metrature<br>in affitto uso ufficio o abitazione.<br><br><b><i><br></i></b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": false
               }
@@ -167,26 +167,36 @@
           "_anchor": "slider-3",
           "_styles": {
             "H1": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "text-align": "left",
               "color": "#ffffff",
-              "font-size": "30px"
+              "font-size": "36px"
             },
             "P": {
               "text-align": "left",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "16px"
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "22px"
             },
             "B": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "15px"
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "22px"
             },
             "I": {
               "color": "#ffffff",
               "font-size": "15px"
+            },
+            "DIV": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "36px"
+            },
+            "SPAN": {
+              "font-size": "36px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           }
         },
@@ -418,7 +428,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13, Ravenna</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -485,7 +495,7 @@
     "page2.html": {
       "settings": {
         "meta_descr": "Web Creator Description",
-        "title": "Album",
+        "title": "Gallery",
         "order": 10
       },
       "components": [
@@ -499,13 +509,6 @@
             "showBullets": false,
             "bgColor": "#4c6972",
             "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/casa-200541-800x521.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/casa-200541-800x521-800x521.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
               {
                 "image": "@PROJECT_PATH@/assets/images/casa-200523-800x532.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/casa-200523-800x532-799x525.jpg",
@@ -535,36 +538,8 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/ix-febbraio-11-arco-stanza-d-angolo-1-640x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ix-febbraio-11-arco-stanza-d-angolo-1-640x480-639x466.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/abitazione-124904-399x600.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/abitazione-124904-399x600-399x598.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/casa-200637-800x532.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/casa-200637-800x532-799x532.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/soffittohome-860x402.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/soffittohome-860x402-800x377.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/abitazione-124893-800x532.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/abitazione-124893-800x532-796x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abitazione-124945-800x532.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/abitazione-124945-800x532-800x532.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -584,11 +559,46 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/casa-200522-800x532.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/casa-200522-800x532-792x527.jpg",
+                "image": "@PROJECT_PATH@/assets/images/casa-201499-2000x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/casa-201499-2000x1331-800x532.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/6-casa-capra-antibagno-p1-uff-app-copia-460x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-casa-capra-antibagno-p1-uff-app-copia-460x600-460x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/10-c.-capra-serie-di-sale-p.-nobile-460x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-c.-capra-serie-di-sale-p.-nobile-460x600-460x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/abitazione-124977-800x515.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/abitazione-124977-800x515-800x515.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/casa-201400-400x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/casa-201400-400x600-400x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/abitazione-124897-399x599.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/abitazione-124897-399x599-399x599.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           },
@@ -610,10 +620,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#3c3c3c"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#323232"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -633,7 +643,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13, Ravenna</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -706,7 +716,7 @@
       },
       "components": [
         {
-          "text": "<p><b>Indirizzo:</b></p><p>Via Zirardini 14 angolo via IX Febbraio&nbsp;</p><p>Centro storico di Ravenna</p><p><b>Contatti:</b></p><p>raffaellapedrazzi@gmail.com &nbsp;&nbsp;</p><p>Cell: +39 348 2944043</p><p>Telefono: +39 0541 629151</p>",
+          "text": "<p><b>Indirizzo:</b></p><p>Via Zirardini 14 angolo via IX Febbraio&nbsp;</p><p>Centro storico di Ravenna</p><p><b>Contatti:</b></p><p><a href=\"mailto:raffaellapedrazzi@gmail.com\">raffaellapedrazzi@gmail.com</a> &nbsp;&nbsp;</p><p>Cell: <a href=\"tel:+39-348-2944043\">+39 348 2944043</a></p><p>Telefono: <a href=\"tel:+39-0541-629151\">+39 0541 629151</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -752,7 +762,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13, Ravenna</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -832,10 +842,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#3c3c3c"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#323232"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -855,7 +865,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13, Ravenna</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -948,7 +958,7 @@
             }
           },
           "headerAlign": "left",
-          "meta": "<span style=\"font-style: normal;\">L'appartamento del piano nobile è sito nel primo piano del palazzo e ha ingresso su via Zirardini 14.L’appartamento ha una superficie di circa 200 mq, è formato da tre saloni, una stanza predisposta per un’eventuale cucina, un corridoio, due bagni e un antibagno.<br>Possiede, inoltre, un sottotetto di 400 mq che risulta essere perfetto per un eventuale archivio.Vi si accede attraverso un androne con soffitto a volta lunettata e uno scalone gentilizio, illuminati da lampioni.<br></span><br><span style=\"font-style: normal;\"><b>L’immobile risulta un perfetto luogo per ospitare uffici di rappresentanza o un’abitazione di prestigio.</b><br></span><br>",
+          "meta": "<span style=\"font-style: normal;\">L'appartamento del piano nobile è al primo piano del palazzo con ingresso su via Zirardini 14. Una superficie di circa 200 mq, formato da tre saloni, una stanza predisposta per un’eventuale cucina, un corridoio, due bagni e un antibagno.<br>Possiede, inoltre, un sottotetto di 400 mq per un eventuale archivio.</span><br><span style=\"font-style: normal;\">Vi si accede attraverso un androne con soffitto a volta lunettata e uno scalone gentilizio, illuminati da lampioni.<br></span><br><span style=\"font-style: normal;\"><b>L’immobile risulta un perfetto luogo per ospitare uffici di rappresentanza o un’abitazione di prestigio.</b><br></span><br>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">altre Informazioni</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-u"
@@ -1088,11 +1098,10 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/planimetria-1169x1654.jpg",
+              "src": "@PROJECT_PATH@/assets/images/planimetria-1-1169x1654.jpg",
               "link": "assets/files/planimetria.pdf",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -1139,29 +1148,15 @@
             "bgColor": "#7c706b",
             "images": [
               {
+                "image": "@PROJECT_PATH@/assets/images/img-5357-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5357-2000x2667-800x1067.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/casa-201428-800x532.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/casa-201428-800x532-799x532.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-5245-1148x1944.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-5245-1148x1944-800x1364.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/soffitto-soggiorno-int.4-492x369.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/soffitto-soggiorno-int.4-492x369-491x369.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/soffitto-ingresso-int.4-492x369.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/soffitto-ingresso-int.4-492x369-491x369.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -1174,18 +1169,18 @@
                 "active": false
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/soffitto-ingresso-491x369.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/soffitto-ingresso-491x369-491x369.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/img-5355-2000x2667.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-5355-2000x2667-800x1066.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-5357-2000x2667.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-5357-2000x2667-800x1067.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
               }
             ]
           },
@@ -1230,7 +1225,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13, Ravenna</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1428,10 +1423,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#3c3c3c"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#323232"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1451,7 +1446,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13, Ravenna</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1586,11 +1581,11 @@
             "bgColor": "#4c6972",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/casa-200949-319x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/casa-200949-319x480-243x310.jpg",
+                "image": "@PROJECT_PATH@/assets/images/casa-200950-319x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/casa-200950-319x480-243x309.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/casa-200917-640x425.jpg",
@@ -1618,7 +1613,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/casa-200726-640x425-640x424.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
@@ -1640,10 +1635,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#3c3c3c"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#323232"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1663,7 +1658,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13, Ravenna</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1931,10 +1926,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#3c3c3c"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#323232"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1954,7 +1949,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13, Ravenna</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2037,10 +2032,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#3c3c3c"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#323232"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -2060,7 +2055,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13, Ravenna</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2194,7 +2189,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13, Ravenna</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2328,7 +2323,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">ALBUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page4.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPARTAMENTI IN AFFITTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 3<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">Via Zirardini 14 Int. 4<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Via IX Febbraio 11<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Via IX Febbraio 7<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\" aria-expanded=\"false\">Via IX Febbraio 5<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">LA STORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ALTRI IMMOBILI</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">V. Porta Serrata 13, Ravenna</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Piano Terra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Primo Piano</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.cesenaticohotelstresa.com\" aria-expanded=\"false\" target=\"_blank\">Hotel Stresa Cesenatico</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default-outline btn-default\" href=\"https://mobirise.com/\">DOVE SIAMO</a></li>",
           "logo": {
             "image": {
               "active": true,
