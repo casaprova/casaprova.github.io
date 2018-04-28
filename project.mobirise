@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "casa capra",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 89,
+    "uniqCompNum": 91,
     "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -103,7 +103,7 @@
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "<br><span style=\"font-weight: normal;\">Casa Capra Ravenna</span><br>",
+                "title": "<br><span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\">Casa Capra Ravenna</span><br>",
                 "contentAlign": "left",
                 "text": "Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna.<br>Casa Capra ti offre appartamenti <br>prestigiosi di varie metrature<br>in affitto uso ufficio o abitazione.<br><br><i><b><br></b></i>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -115,9 +115,9 @@
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "<br><br><span style=\"font-weight: normal;\">Casa Capra Ravenna</span>",
+                "title": "<br><span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">Casa Capra Ravenna</span>",
                 "contentAlign": "left",
-                "text": "Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna<br>Casa Capra ti offre appartamenti <br>prestigiosi di varie metrature<br> in affitto uso ufficio o abitazione.<br><br><br><br><br><br><br><br><br><b><i><br></i></b>",
+                "text": "Dettaglio affresco a soffitto<br><br><br><br><br><br><br><br><br><b><i><br></i></b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": false
               },
@@ -127,9 +127,9 @@
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "<div><br></div><br><div><span style=\"font-weight: normal;\">Casa Capra Ravenna</span><br></div>",
+                "title": "<div><span style=\"font-weight: normal;\"><br></span></div><br><div><span style=\"font-weight: normal;\">Casa Capra Ravenna</span><br></div>",
                 "contentAlign": "center",
-                "text": "Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna.<br>Casa Capra ti offre appartamenti<br> prestigiosi di varie metrature<br>in affitto uso ufficio o abitazione.<br><br><br><br><br><br><i><b><br></b></i>",
+                "text": "Ingresso<br><br><br><br><br><br><i><b><br></b></i>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": false
               },
@@ -139,9 +139,9 @@
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "<br><span style=\"font-weight: normal;\">Casa Capra Ravenna</span>",
+                "title": "<span style=\"font-weight: normal;\">Casa Capra Ravenna</span>",
                 "contentAlign": "left",
-                "text": "Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna.<br>Casa Capra ti offre appartamenti <br>prestigiosi di varie metrature<br>in affitto uso ufficio o abitazione.<br><br><b><i><br></i></b>",
+                "text": "Corte interna<br><br><b><i><br></i></b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": false
               },
@@ -151,9 +151,9 @@
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "<br><br><br><span style=\"font-weight: normal;\">Casa Capra Ravenna</span>",
+                "title": "<span style=\"font-weight: normal;\">Casa Capra Ravenna</span>",
                 "contentAlign": "left",
-                "text": "Uno splendido palazzo del ‘600<br>nel centro storico di Ravenna.<br>Casa Capra ti offre appartamenti <br>prestigiosi di varie metrature<br>in affitto uso ufficio o abitazione.<br><br><b><i><br></i></b>",
+                "text": "Dettaglio affresco a soffitto<br><b><i><br></i></b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": false
               }
@@ -1304,7 +1304,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "39",
+            "imageSize": "43",
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -1344,7 +1344,7 @@
             }
           },
           "title": "Immobile Via IX Febbraio 11",
-          "text": "<p>L'appartamento è sito nella corte interna ed ha ingresso indipendente ed esclusivo su Via IX Febbraio 11. E' composto da un primo piano di circa 100 mq: &nbsp;3 stanze, una sala predisposta per una eventuale cucina, due bagni e un salone d' ingresso.</p><p>Al piano terra, una cantina di 20 mq.&nbsp;</p><p><br></p><p><b>L’ immobile rappresenta un  perfetto luogo per ospitare uffici di rappresentanza o un' abitazione di prestigio.</b><br></p><p><br></p>",
+          "text": "<p>L' appartamento si trova &nbsp;nella corte interna ed ha ingresso indipendente ed esclusivo su Via IX Febbraio 11. E' composto da un primo piano di circa 100 mq: &nbsp;3 stanze, una sala predisposta per una eventuale cucina, due bagni e un salone d' ingresso.</p><p>Al piano terra, una cantina di 20 mq.&nbsp;</p><p><br></p><p><b>L’ immobile rappresenta un  perfetto luogo per ospitare uffici di rappresentanza o un' abitazione di prestigio.</b><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1562,7 +1562,7 @@
           },
           "title": "Immobile Via IX Febbraio 7",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>L'appartamento è sito nella corte interna del palazzo con ingresso privato<br></p><p></p><div>Immobile di 100 Mq sviluppato su 2 piani con giardinetto di 40 mq ad uso esclusivo.<br></div><div>Piano terra: cucina, bagno, giardinetto,.</div><div>Primo piano: sala, 2 camere, bagno.</div><div><br></div><div><b>L’ immobile rappresenta un  perfetto luogo per ospitare uffici di rappresentanza o un' abitazione di prestigio.</b></div><p></p>",
+          "text": "<p>L' appartamento si trova nella corte interna del palazzo con ingresso privato<br></p><p></p><div>Immobile di 100 Mq sviluppato su 2 piani con giardinetto di 40 mq ad uso esclusivo.<br></div><div>Piano terra: cucina, bagno, giardinetto,.</div><div>Primo piano: sala, 2 camere, bagno.</div><div><br></div><div><b>L’ immobile rappresenta un  perfetto luogo per ospitare uffici di rappresentanza o un' abitazione di prestigio.</b></div><p></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -1738,7 +1738,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "36",
+            "imageSize": "41",
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -1778,7 +1778,7 @@
             }
           },
           "title": "Immobile Via IX Febbraio 5",
-          "text": "<p>L'appartamento è sito nella corte interna del palazzo con ingresso su via IX Febbraio 5&nbsp;</p><p>E' composto da un piano terra di circa 52 mq: cucina, tinello, salone e un bagno; un piano primo di circa 42 mq: tre camere e un bagno.</p><p><br></p><p><br></p>",
+          "text": "<p>L' appartamento si trova nella corte interna del palazzo con ingresso su via IX Febbraio 5. E' composto da un piano terra di circa 52 mq: cucina, tinello, salone e un bagno; un piano primo di circa 42 mq: tre camere e un bagno.</p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1807,7 +1807,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "36",
+            "imageSize": "40",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -2128,32 +2128,75 @@
       },
       "components": [
         {
+          "_inherit": "msg-box5",
           "_params": {
-            "showText": false,
-            "outside": false
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "42",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7c706b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/porta-serrata-piano-terra-1-1400x663.png",
               "class": "mbr-figure__img",
               "width": 1400,
-              "link": "assets/files/-%20porta%20serrata%20primo%20piano.pdf",
+              "src": "@PROJECT_PATH@/assets/images/porta-serrata-piano-terra-1-1397x660.png",
+              "link": "assets/files/Porta%20Serrata%20Piano%20terra%20(1).pdf",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             },
             "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "Via &nbsp;Porta serrata 13<br> Appartamento piano terra",
+          "text": "<p>Appartamento di una villetta anni 40’ di due piani completamente ristrutturata nel 2018. Una superficie di circa 120 mq, composto da due camere, due bagni completi di accessori e punti luce, soggiorno, cucina e tinello con travi a vista. Finiture di pregio e tutta la pavimentazione in parquet.</p><p>Posto auto coperto e ampio cortile comune.</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-28"
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#333333",
+              "text-align": "left"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2h"
         },
         {
           "_styles": {
@@ -2262,32 +2305,73 @@
       },
       "components": [
         {
+          "_inherit": "msg-box5",
           "_params": {
-            "showText": false,
-            "outside": false
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "45",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7c706b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-porta-serrata-primo-piano-1400x614.png",
               "class": "mbr-figure__img",
               "width": 1400,
-              "link": "assets/files/-%20porta%20serrata%20primo%20piano.pdf",
+              "src": "@PROJECT_PATH@/assets/images/-porta-serrata-primo-piano-1400x614.png",
+              "link": "assets/files/- porta serrata primo piano.pdf",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             },
             "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "Via Porta Serrata 13 Appartamento al primo piano",
+          "text": "Appartamento di una villetta anni 40’ di due piani completamente ristrutturata nel 2018. Una superficie di circa 97 mq, composto da due camere, due bagni, soggiorno, cucina e una terrazza di circa 20 mq.<div>Posto auto coperto e ampio cortile comune</div>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-2d"
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#333333"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2i"
         },
         {
           "_styles": {
@@ -2300,10 +2384,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#3c3c3c"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#323232"
             },
             ".navbar-toggler": {
               "color": "#ffffff"

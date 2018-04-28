@@ -389,6 +389,17 @@
 #contacts1-24 P {
   font-size: 12px;
 }
+#msg-box4-2h .mbr-header__text {
+  color: #333333;
+  text-align: left;
+}
+#msg-box4-2h .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-2h .mbr-article {
+  color: #ffffff;
+  text-align: left;
+}
 #dropdown-menu-25 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -415,6 +426,15 @@
 #contacts1-26 P {
   font-size: 12px;
 }
+#msg-box4-2i .mbr-header__text {
+  color: #333333;
+}
+#msg-box4-2i .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-2i .mbr-article {
+  color: #ffffff;
+}
 #dropdown-menu-2e .hide-buttons [data-button] {
   display: none !important;
 }
@@ -425,12 +445,12 @@
 }
 #dropdown-menu-2e .navbar,
 #dropdown-menu-2e .dropdown-menu {
-  background: #333333;
+  background: #3c3c3c;
 }
 #dropdown-menu-2e .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2e .dropdown-menu a:hover,
 #dropdown-menu-2e .dropdown-menu a:focus {
-  background: #292929;
+  background: #323232;
 }
 #dropdown-menu-2e .navbar-toggler {
   color: #ffffff;
