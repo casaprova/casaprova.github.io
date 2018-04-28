@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "casa capra",
-    "currentPage": "page10.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -110,7 +110,7 @@
                 "overlay": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/image020-2-900x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/image020%20(2)-900x599.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -122,7 +122,7 @@
                 "overlay": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/casa-200765-2000x1331.jpg",
+                "image": "@PROJECT_PATH@/assets/images/casa%20200765-2000x1331.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -559,21 +559,21 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/casa-201499-2000x1331.jpg",
+                "image": "@PROJECT_PATH@/assets/images/casa%20201499-2000x1331.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/casa-201499-2000x1331-800x532.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/6-casa-capra-antibagno-p1-uff-app-copia-460x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6--casa-capra---antibagno_p1---uff-app-copia-460x600.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/6-casa-capra-antibagno-p1-uff-app-copia-460x600-460x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/10-c.-capra-serie-di-sale-p.-nobile-460x600.jpg",
+                "image": "@PROJECT_PATH@assets/images/10--c.-capra---serie-di-sale---p.-nobile-460x600.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/10-c.-capra-serie-di-sale-p.-nobile-460x600-460x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -1116,7 +1116,7 @@
             }
           },
           "title": "<br>Via Zirardini 14 interno 4",
-          "text": "<p>L’appartamento si trova al primo piano del palazzo, il“piano nobile”, e ha ingresso su Via Zirardini 14. Ha una superficie di circa 170 mq, è formato da un ampio ingresso-soggiorno con soffitto originale in legno a cassettoni, tre stanze, tre bagni, cucina, ripostiglio e cantina. Si accede all’appartamento attraverso l’antico androne del palazzo e uno scalone gentilizio illuminati da lampioni in ferro battuto.</p><p><br></p><p><b><br></b></p><p><b>L’immobile risulta un perfetto luogo per ospitare uffici di rappresentanza o un’abitazione di prestigio.</b></p><p><br></p>",
+          "text": "<p>L’ appartamento si trova al primo piano del palazzo, il“piano nobile”, e ha ingresso su Via Zirardini 14. Ha una superficie di circa 170 mq, è formato da un ampio ingresso-soggiorno con soffitto originale in legno a cassettoni, tre stanze, tre bagni, cucina, ripostiglio e cantina. Si accede all’appartamento attraverso l’antico androne del palazzo e uno scalone gentilizio illuminati da lampioni in ferro battuto.</p><p><br></p><p><b><br></b></p><p><b>L’immobile risulta un perfetto luogo per ospitare uffici di rappresentanza o un’abitazione di prestigio.</b></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1169,7 +1169,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/soffitto-ingresso-491x369.jpg",
+                "image": "@PROJECT_PATH@/assets/images/soffitto%20ingresso-491x369.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/soffitto-ingresso-491x369-491x369.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -2156,7 +2156,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/porta-serrata-piano-terra-1-1397x660.png",
+              "src": "@PROJECT_PATH@/assets/images/porta%20serrata%20piano%20terra%20(1)-1397x660.png",
               "link": "assets/files/Porta%20Serrata%20Piano%20terra%20(1).pdf",
               "alt": "",
               "title": "",
@@ -2333,7 +2333,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-porta-serrata-primo-piano-1400x614.png",
+              "src": "@PROJECT_PATH@/assets/images/-%20porta%20serrata%20primo%20piano-1400x614.png",
               "link": "assets/files/- porta serrata primo piano.pdf",
               "alt": "",
               "title": "",
